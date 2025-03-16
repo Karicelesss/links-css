@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+body{
+
+    background-color: pink;
+}
+a:link {
+  color:#000000;
+  text-decoration:none;
+}
+a:visited {
+  color:#b22222;
+  text-decoration:none;
+}
+a:hover {
+  color:#000000;
+  text-decoration:underline;
+}
+a:active {
+  color:#00ff00;
+  text-decoration:underline;
+  background-color:#fff200ee;
+}
+</style>
+    </style>
+</head>
+<body>
+    <p><a href="https://www.apple.com/br/iphone/?afid=p238%7CskPVy4d38-dc_mtid_209258i342853_pcrid_734808112532_pgrid_170799239481_pexid__ptid_kwd-334361787_&cid=wwa-br-kwgo-iphone-slid--Core-iPhone-Avail-">Link iphone</a></p>
+    <p><a href="https://www.amazon.com.br/Shampoo-Antiquebra-Inforcer-L%C2%B4Oreal-Professionnel/dp/B09GSQMVJS/ref=sr_1_17?adgrpid=126935665575&dib=eyJ2IjoiMSJ9.C7bF1PQ-FdxvyZS8K3tuZrSoehhI0uUTOaQSVk8xM0uVYU9GurMGgr7-eOkkQ8Owaabv2N878sq8nr8L7l6Cs-LFAqyKFguO02E12ZXaFIjFTiCUfahJThPJFr9WcpzP_CXq9g-KGqV4eBFL8sGQXqmpnwDwE58n_b81QjjK_dp7ZwuTacR4nlaP4vKhXKfh2JB1GkM0SaKz5XbosI_3EWB-VJF0g9EopQFZoAhclS8lt3DaByH-sHalEW-RQTBEXD-KcSm5x7tqUR4qxZF3wV_zE4KY0ZWvlx9pX6eAuKr3vdCEOaTs7sN_rp2OnG_q5rSHoPwY3c19KjkpqE3r4uTrKBZUFB3skO-OJUEiDRIHZr3V1k3z0WhxkymjF--QMk0idZRuB5aRPU6gfffT3QIXOsKxByR4QBJNS8R27j8RaxxPC6UKWdJPS2WqqPvO.pr3erXveg0rdI6qwAfTcuPb6SLvJivFfnM605oDbn0Q&dib_tag=se&hvadid=595827496995&hvdev=c&hvlocphy=9101292&hvnetw=g&hvqmt=b&hvrand=7463894620136242356&hvtargid=kwd-298585885180&hydadcr=15188_13546032&keywords=amazon+shampoo&qid=1742084421&sr=8-17">Link shampoo leoreal</a></p>
+    <p><a href="https://www.amazon.com.br/Shampoo-Ghee-Reconstru%C3%A7%C3%A3o-Lola-Cosmetics/dp/B07Y3JYWB1/ref=sr_1_42?adgrpid=126935665575&dib=eyJ2IjoiMSJ9.C7bF1PQ-FdxvyZS8K3tuZrSoehhI0uUTOaQSVk8xM0uVYU9GurMGgr7-eOkkQ8Owaabv2N878sq8nr8L7l6Cs-LFAqyKFguO02E12ZXaFIjFTiCUfahJThPJFr9WcpzP_CXq9g-KGqV4eBFL8sGQXqmpnwDwE58n_b81QjjK_dp7ZwuTacR4nlaP4vKhXKfh2JB1GkM0SaKz5XbosI_3EWB-VJF0g9EopQFZoAhclS8lt3DaByH-sHalEW-RQTBEXD-KcSm5x7tqUR4qxZF3wV_zE4KY0ZWvlx9pX6eAuKr3vdCEOaTs7sN_rp2OnG_q5rSHoPwY3c19KjkpqE3r4uTrKBZUFB3skO-OJUEiDRIHZr3V1k3z0WhxkymjF--QMk0idZRuB5aRPU6gfffT3QIXOsKxByR4QBJNS8R27j8RaxxPC6UKWdJPS2WqqPvO.pr3erXveg0rdI6qwAfTcuPb6SLvJivFfnM605oDbn0Q&dib_tag=se&hvadid=595827496995&hvdev=c&hvlocphy=9101292&hvnetw=g&hvqmt=b&hvrand=7463894620136242356&hvtargid=kwd-298585885180&hydadcr=15188_13546032&keywords=amazon+shampoo&qid=1742084421&sr=8-42">Link shampoo lola</a></p> 
+</body>
+</html>
